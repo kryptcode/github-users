@@ -5,6 +5,9 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      "space": ['Space Mono', 'sans-serif']
+    }
   },
   plugins: [],
 }
